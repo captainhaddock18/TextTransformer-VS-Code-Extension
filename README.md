@@ -35,13 +35,6 @@ Quickly count the occurrences of a specific word in your document, ensuring whol
   3. Enter the word you want to count.
   4. A message will display the number of times the word occurs in the document.
 
-## Installation
-
-1. Open Visual Studio Code.
-2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
-3. Search for "Text Transformer".
-4. Click Install on the Text Transformer extension.
-
 ## Usage
 
 1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
